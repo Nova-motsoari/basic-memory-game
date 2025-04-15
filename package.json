@@ -1,0 +1,17 @@
+{
+  "name": "Basic memory game",
+  "version": "1.0.0",
+  "description": "basic memory game with jasmine tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Boitumelo Bontes",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.5.0"
+  },
+  "dependencies": {
+    "jsdom": "^25.0.1"
+  }
+}
